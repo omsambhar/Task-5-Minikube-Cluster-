@@ -16,6 +16,4 @@ This repo contains files and screenshots for deploying a Node.js app using Kuber
 ## Screenshots
 Included sample screenshots of the commands and their outputs.
 
-## Author
-DevOps Intern - Task 5 Submission
-# Task-5-Minikube-Cluster-
+
